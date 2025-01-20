@@ -4,7 +4,7 @@ For starters let me give credit to the resources I used to transcribe this proje
 - https://github.com/iSarabjitDhiman/TweeterPy/tree/master (TID written in Python)
 - https://github.com/fa0311/antibot_blog_archives (Articles on reversing the header gen)
 
-##How to use it
+## How to use it
 1. `npm install`
 2. Make sure in the src/main.js file to add your headers like `X-csrf-token` and `cookie` headers so that it can fetch the home page to get the `x-loading-anim` SVG's to get the loading data.
 
