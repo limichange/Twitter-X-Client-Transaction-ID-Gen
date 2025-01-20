@@ -3,5 +3,8 @@
     "cheerio": "^1.0.0",
     "node-fetch": "^3.3.2",
     "request-promise": "^4.2.6"
+  },
+  "scripts": {
+    "start": "node src/main.js"
   }
 }
